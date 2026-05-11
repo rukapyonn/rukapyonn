@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+### 一番お気に入りのヘアカラーは今のピンクです！
 <!--
 **rukapyonn/rukapyonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
